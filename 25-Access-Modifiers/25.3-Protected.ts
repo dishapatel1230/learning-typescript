@@ -1,0 +1,3 @@
+/* A Protected access modifier can be accessed only within the class and its subclass. 
+We cannot access it from the outside of a class in which it is containing.
+*/
